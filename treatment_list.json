@@ -1,0 +1,1012 @@
+{
+    "treatments": [
+        {
+            "Name": "Sports Injuries",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/orthopaedics/treatment/sports-injuries"
+        },
+        {
+            "Name": "Joint Replacement",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/orthopaedics/treatment/joint-replacement"
+        },
+        {
+            "Name": "Arthroscopy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/orthopaedics/treatment/arthroscopy"
+        },
+        {
+            "Name": "Paediatric Orthopaedics",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/orthopaedics/treatment/paediatric-orthopaedics"
+        },
+        {
+            "Name": "Laparoscopic Cholecystectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gi-surgery/treatment/laparoscopic-cholecystectomy"
+        },
+        {
+            "Name": "Whipple’s Procedure",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gi-surgery/treatment/whipples-procedure"
+        },
+        {
+            "Name": "Robotic GI Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gi-surgery/treatment/robotic-gi-surgery"
+        },
+        {
+            "Name": "Bariatric Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gi-surgery/treatment/bariatric-surgery"
+        },
+        {
+            "Name": "Breast Pain",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/breast-cancer/treatment/breast-pain"
+        },
+        {
+            "Name": "Mastectomy or complete breast removal",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/breast-cancer/treatment/mastectomy-or-complete-breast-removal"
+        },
+        {
+            "Name": "Breast conservation surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/breast-cancer/treatment/breast-conservation-surgery"
+        },
+        {
+            "Name": "Fibroadenoma breast excision",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/breast-cancer/treatment/fibroadenoma-breast-excision"
+        },
+        {
+            "Name": "Heart-lung transplant",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/lung-transplantation-chest-surgery/treatment/heart-lung-transplant"
+        },
+        {
+            "Name": "Bilateral single transplant",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/lung-transplantation-chest-surgery/treatment/bilateral-single-transplant"
+        },
+        {
+            "Name": "Double lung transplant",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/lung-transplantation-chest-surgery/treatment/double-lung-transplant"
+        },
+        {
+            "Name": "Single lung transplant",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/lung-transplantation-chest-surgery/treatment/single-lung-transplant"
+        },
+        {
+            "Name": "Ventilator Management",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/ventilator-management"
+        },
+        {
+            "Name": "Hemodynamic Monitoring",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/hemodynamic-monitoring"
+        },
+        {
+            "Name": "Renal Replacement Therapy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/renal-replacement-therapy"
+        },
+        {
+            "Name": "Neurological Monitoring",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/neurological-monitoring"
+        },
+        {
+            "Name": "Sepsis Management",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/sepsis-management"
+        },
+        {
+            "Name": "Nutritional Support",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/nutritional-support"
+        },
+        {
+            "Name": "Pain Management",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/pain-management"
+        },
+        {
+            "Name": "Infectious Disease Control",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/infectious-disease-control"
+        },
+        {
+            "Name": "Advanced Imaging and Diagnostics",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/advanced-imaging-and-diagnostics"
+        },
+        {
+            "Name": "Rehabilitation Planning",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/rehabilitation-planning"
+        },
+        {
+            "Name": "Drug Overdose Management",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/critical-care/treatment/drug-overdose-management"
+        },
+        {
+            "Name": "Brain Tumour",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiation-oncology/treatment/brain-tumour"
+        },
+        {
+            "Name": "Liver Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiation-oncology/treatment/liver-cancer"
+        },
+        {
+            "Name": "Lung Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiation-oncology/treatment/lung-cancer"
+        },
+        {
+            "Name": "Head & Neck Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiation-oncology/treatment/head-neck-cancer"
+        },
+        {
+            "Name": "Breast Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiation-oncology/treatment/breast-cancer"
+        },
+        {
+            "Name": "GI Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiation-oncology/treatment/gi-surgery"
+        },
+        {
+            "Name": "Anxiety Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/treatment/anxiety-disorders"
+        },
+        {
+            "Name": "Depression",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/treatment/depression"
+        },
+        {
+            "Name": "Post-Traumatic Stress Disorder (PTSD)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/treatment/post-traumatic-stress-disorder-ptsd"
+        },
+        {
+            "Name": "Laparoscopic gynaecological surgeries: Ovarian cysts, fibroids, endometriosis, Dysfunctional uterine bleeding",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gynaecology-obstetrics/treatment/laparoscopic-gynaecological-surgeries-ovarian-cysts-fibroids-endometriosis-dysfunctional-uterine-bleeding"
+        },
+        {
+            "Name": "High risk pregnancies and prenatal complications  ; Ectopic pregnancies",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gynaecology-obstetrics/treatment/high-risk-pregnancies-and-prenatal-complications-ectopic-pregnancies"
+        },
+        {
+            "Name": "Pelvic floor disorders ; Infertility support and counselling",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gynaecology-obstetrics/treatment/pelvic-floor-disorders-infertility-support-and-counselling"
+        },
+        {
+            "Name": "Puberty and menopause support and counselling",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gynaecology-obstetrics/treatment/puberty-and-menopause-support-and-counselling"
+        },
+        {
+            "Name": "Cleft Lip or Cleft Palate Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dermatology/treatment/cleft-lip-or-cleft-palate-surgery"
+        },
+        {
+            "Name": "Acne",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dermatology/treatment/acne"
+        },
+        {
+            "Name": "Eczema",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dermatology/treatment/eczema"
+        },
+        {
+            "Name": "Psoriasis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dermatology/treatment/psoriasis"
+        },
+        {
+            "Name": "Liver Biopsy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiology/treatment/liver-biopsy"
+        },
+        {
+            "Name": "Sentinel Node Excision",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiology/treatment/sentinel-node-excision"
+        },
+        {
+            "Name": "Body Imaging",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiology/treatment/body-imaging"
+        },
+        {
+            "Name": "Breast Imaging",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiology/treatment/breast-imaging"
+        },
+        {
+            "Name": "Interventional Radiology",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/radiology/treatment/interventional-radiology"
+        },
+        {
+            "Name": "Augmentation Mammoplasty",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/augmentation-mammoplasty"
+        },
+        {
+            "Name": "Abdominoplasty (Tummy tuck Operation)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/abdominoplasty-tummy-tuck-operation"
+        },
+        {
+            "Name": "Rhinoplasty",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/rhinoplasty"
+        },
+        {
+            "Name": "Skin Grafting",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/skin-grafting"
+        },
+        {
+            "Name": "Squint Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/squint-surgery"
+        },
+        {
+            "Name": "Free Flap Procedure",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/free-flap-procedure"
+        },
+        {
+            "Name": "Rhytidectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/rhytidectomy"
+        },
+        {
+            "Name": "Nasal Tip Plasty",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/nasal-tip-plasty"
+        },
+        {
+            "Name": "Reduction Mammoplasty",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/reduction-mammoplasty"
+        },
+        {
+            "Name": "Mucormycosis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/mucormycosis"
+        },
+        {
+            "Name": "Body Contouring",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery/treatment/body-contouring"
+        },
+        {
+            "Name": "Full Mouth Implant",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dentistry/treatment/full-mouth-implant"
+        },
+        {
+            "Name": "TM Joint Disorders and Myofacial Pain",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dentistry/treatment/tm-joint-disorders-and-myofacial-pain"
+        },
+        {
+            "Name": "Maxillofacial Prosthesis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dentistry/treatment/maxillofacial-prosthesis"
+        },
+        {
+            "Name": "Braces for irregular or crooked teeth",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dentistry/treatment/braces-for-irregular-or-crooked-teeth"
+        },
+        {
+            "Name": "Orthopaedic conditions",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ayurveda/treatment/orthopaedic-conditions"
+        },
+        {
+            "Name": "Neurological conditions",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ayurveda/treatment/neurological-conditions"
+        },
+        {
+            "Name": "Heart conditions",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ayurveda/treatment/heart-conditions"
+        },
+        {
+            "Name": "Supportive cancer treatment",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ayurveda/treatment/supportive-cancer-treatment"
+        },
+        {
+            "Name": "Seizure",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/emergency/treatment/seizure"
+        },
+        {
+            "Name": "Shock",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/emergency/treatment/shock"
+        },
+        {
+            "Name": "Choking",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/emergency/treatment/choking"
+        },
+        {
+            "Name": "Pharyngeal Flap Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ent/treatment/pharyngeal-flap-surgery"
+        },
+        {
+            "Name": "TRUS/MRI FUSION Prostate Biopsy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ent/treatment/trusmri-fusion-prostate-biopsy"
+        },
+        {
+            "Name": "Larynx Disorder",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ent/treatment/larynx-disorder"
+        },
+        {
+            "Name": "Ear Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ent/treatment/ear-disorders"
+        },
+        {
+            "Name": "Nose Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ent/treatment/nose-disorders"
+        },
+        {
+            "Name": "Deafness",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ent/treatment/deafness"
+        },
+        {
+            "Name": "Parotid and Thyroid Tumours",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ent/treatment/parotid-and-thyroid-tumours"
+        },
+        {
+            "Name": "Sleep Apnea",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ent/treatment/sleep-apnea"
+        },
+        {
+            "Name": "Vertigo",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ent/treatment/vertigo"
+        },
+        {
+            "Name": "Rheumatic Fever",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/internal-medicine/treatment/rheumatic-fever"
+        },
+        {
+            "Name": "Diabetes",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/internal-medicine/treatment/diabetes"
+        },
+        {
+            "Name": "Autism",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/lab-pathology/treatment/autism"
+        },
+        {
+            "Name": "Dementia",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/lab-pathology/treatment/dementia"
+        },
+        {
+            "Name": "Crohn's Disease",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/lab-pathology/treatment/crohns-disease"
+        },
+        {
+            "Name": "Peripheral Angiography",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/peripheral-angiography"
+        },
+        {
+            "Name": "Secondary Assisted Central Venous access for Haemodialysis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/secondary-assisted-central-venous-access-for-haemodialysis"
+        },
+        {
+            "Name": "Embolisation for vascular malformations",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/embolisation-for-vascular-malformations"
+        },
+        {
+            "Name": "Diabetic Foot Vascular Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/diabetic-foot-vascular-surgery"
+        },
+        {
+            "Name": "Vein Mapping",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/vein-mapping"
+        },
+        {
+            "Name": "Varicose Veins Laser Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/varicose-veins-laser-surgery"
+        },
+        {
+            "Name": "Varicocelectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/varicocelectomy"
+        },
+        {
+            "Name": "Injuries",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/injuries"
+        },
+        {
+            "Name": "Varicose Veins",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/varicose-veins"
+        },
+        {
+            "Name": "Stroke",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/stroke"
+        },
+        {
+            "Name": "Peripheral Vascular Disease",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/vascular-surgery/treatment/peripheral-vascular-disease"
+        },
+        {
+            "Name": "Congenital Heart Defects",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/paediatrics/treatment/congenital-heart-defects"
+        },
+        {
+            "Name": "Genetics",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/paediatrics/treatment/genetics"
+        },
+        {
+            "Name": "Sickle cell anemia",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/paediatrics/treatment/sickle-cell-anemia"
+        },
+        {
+            "Name": "Paediatrics Pulmonology Conditions",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/paediatrics/treatment/paediatrics-pulmonology-conditions"
+        },
+        {
+            "Name": "Transcatheter aortic valve implantation (TAVI)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/treatment/transcatheter-aortic-valve-implantation-tavi"
+        },
+        {
+            "Name": "Peripheral Angioplasty",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/treatment/peripheral-angioplasty"
+        },
+        {
+            "Name": "Coronary Artery Bypass Graft surgery (CABG)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/treatment/coronary-artery-bypass-graft-surgery-cabg"
+        },
+        {
+            "Name": "Aneurysm Repair",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology/treatment/aneurysm-repair"
+        },
+        {
+            "Name": "NEUROUROLOGY AND RECONSTRUCTIVE UROLOGY",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/urology-nephrology/treatment/neurourology-and-reconstructive-urology"
+        },
+        {
+            "Name": "ENDOUROLOGY AND STONE DISEASE",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/urology-nephrology/treatment/endourology-and-stone-disease"
+        },
+        {
+            "Name": "UROLOGIC ONCOLOGY",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/urology-nephrology/treatment/urologic-oncology"
+        },
+        {
+            "Name": "PROSTATE CLINIC",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/urology-nephrology/treatment/prostate-clinic"
+        },
+        {
+            "Name": "Robotic Radical Prostatectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/robotic-radical-prostatectomy"
+        },
+        {
+            "Name": "Leukaemia",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/leukaemia"
+        },
+        {
+            "Name": "Craniospinal Irradiation",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/craniospinal-irradiation"
+        },
+        {
+            "Name": "Inherited Blood Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/inherited-blood-disorders"
+        },
+        {
+            "Name": "Radiation therapy for head and neck cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/radiation-therapy-for-head-and-neck-cancer"
+        },
+        {
+            "Name": "Radiation Therapy for Brain Tumours",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/radiation-therapy-for-brain-tumours"
+        },
+        {
+            "Name": "Radiation Therapy in Abdominal Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/radiation-therapy-in-abdominal-cancer"
+        },
+        {
+            "Name": "Mastectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/mastectomy"
+        },
+        {
+            "Name": "Bone Marrow and Stem Cell Transplant",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/bone-marrow-and-stem-cell-transplant"
+        },
+        {
+            "Name": "Radiation therapy for thoracic region",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/radiation-therapy-for-thoracic-region"
+        },
+        {
+            "Name": "Intravesical BCG",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/intravesical-bcg"
+        },
+        {
+            "Name": "Endocervical Curettage",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/endocervical-curettage"
+        },
+        {
+            "Name": "Radiation therapy for bladder cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/radiation-therapy-for-bladder-cancer"
+        },
+        {
+            "Name": "Radiation Therapy for Pelvic",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/radiation-therapy-for-pelvic"
+        },
+        {
+            "Name": "Conjunctiva Cyst Removal",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/conjunctiva-cyst-removal"
+        },
+        {
+            "Name": "Transcatheter Aortic Valve Implantation (TAVI/ TAVR)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/transcatheter-aortic-valve-implantation-tavitavr"
+        },
+        {
+            "Name": "Robotic partial nephrectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/robotic-partial-nephrectomy"
+        },
+        {
+            "Name": "Immunotherapy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology/treatment/immunotherapy"
+        },
+        {
+            "Name": "Spine Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/treatment/spine-disorders"
+        },
+        {
+            "Name": "Deep Brain Stimulation (DBS)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/treatment/deep-brain-stimulation-dbs"
+        },
+        {
+            "Name": "Interventional neuroradiology",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/treatment/interventional-neuroradiology"
+        },
+        {
+            "Name": "Stroke Rehabilitation",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/treatment/stroke-rehabilitation"
+        },
+        {
+            "Name": "Brain Tumor Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology/treatment/brain-tumor-surgery"
+        },
+        {
+            "Name": "Capsule Endoscopy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/capsule-endoscopy"
+        },
+        {
+            "Name": "Endoscopic Ultrasound",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/endoscopic-ultrasound"
+        },
+        {
+            "Name": "Laparoscopic Cholecystectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/laparoscopic-cholecystectomy"
+        },
+        {
+            "Name": "Ileostomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/ileostomy"
+        },
+        {
+            "Name": "Haemorrhoid Banding",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/haemorrhoid-banding"
+        },
+        {
+            "Name": "Single intestinal resection",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/single-intestinal-resection"
+        },
+        {
+            "Name": "Anastomosis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/anastomosis"
+        },
+        {
+            "Name": "Necrosectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/necrosectomy"
+        },
+        {
+            "Name": "UGI Endoscopy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/ugi-endoscopy"
+        },
+        {
+            "Name": "Segmental Colectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/segmental-colectomy"
+        },
+        {
+            "Name": "Crohn's Disease",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/crohns-disease"
+        },
+        {
+            "Name": "Pancreatitis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/pancreatitis"
+        },
+        {
+            "Name": "Celiac Disease",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology/treatment/celiac-disease"
+        },
+        {
+            "Name": "Vitrectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/opthalmology/treatment/vitrectomy"
+        },
+        {
+            "Name": "Cornea conditions and refractive errors",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/opthalmology/treatment/cornea-conditions-and-refractive-errors"
+        },
+        {
+            "Name": "Oculoplasty",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/opthalmology/treatment/oculoplasty"
+        },
+        {
+            "Name": "Retinal Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/opthalmology/treatment/retinal-disorders"
+        },
+        {
+            "Name": "Interstitial Lung disease",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/pulmonology/treatment/interstitial-lung-disease"
+        },
+        {
+            "Name": "Chronic Obstructive Pulmonary Disease (COPD)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/pulmonology/treatment/chronic-obstructive-pulmonary-disease-copd"
+        },
+        {
+            "Name": "Pneumonias",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/pulmonology/treatment/pneumonias"
+        },
+        {
+            "Name": "Smoking Related Lung Diseases",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/pulmonology/treatment/smoking-related-lung-diseases"
+        },
+        {
+            "Name": "Leukemia",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/bone-marrow-transplant/treatment/leukemia"
+        },
+        {
+            "Name": "Thalassemia",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/bone-marrow-transplant/treatment/thalassemia"
+        },
+        {
+            "Name": "Lymphomas",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/bone-marrow-transplant/treatment/lymphomas"
+        },
+        {
+            "Name": "Sickle Cell Anaemia",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/bone-marrow-transplant/treatment/sickle-cell-anaemia"
+        },
+        {
+            "Name": "Oral Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/head-neck/treatment/oral-cancer"
+        },
+        {
+            "Name": "Other Head & Neck Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/head-neck/treatment/other-head-neck-cancer"
+        },
+        {
+            "Name": "Thyroid/ Parathyroid Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/head-neck/treatment/thyroid-parathyroid-surgery"
+        },
+        {
+            "Name": "Salivary gland (Parotid & others) program",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/head-neck/treatment/salivary-gland-parotid-others-program"
+        },
+        {
+            "Name": "Vascular Bypass Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiac-surgery/treatment/vascular-bypass-surgery"
+        },
+        {
+            "Name": "Aneurysm Repair",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiac-surgery/treatment/aneurysm-repair"
+        },
+        {
+            "Name": "Coronary Artery Bypass Graft surgery (CABG)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiac-surgery/treatment/coronary-artery-bypass-graft-surgery-cabg"
+        },
+        {
+            "Name": "Valve replacement",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiac-surgery/treatment/valve-replacement"
+        },
+        {
+            "Name": "Cardiac Catheter Ablation",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/electrophysiology/treatment/cardiac-catheter-ablation"
+        },
+        {
+            "Name": "Implantable Cardioverter Defibrillator (ICD) Placement",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/electrophysiology/treatment/implantable-cardioverter-defibrillator-icd-placement"
+        },
+        {
+            "Name": "Cardiac Resynchronization Therapy (CRT)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/electrophysiology/treatment/cardiac-resynchronization-therapy-crt"
+        },
+        {
+            "Name": "Pacemaker Implantation",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/electrophysiology/treatment/pacemaker-implantation"
+        },
+        {
+            "Name": "Blood Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/medical-oncology/treatment/blood-cancer"
+        },
+        {
+            "Name": "Liver Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/medical-oncology/treatment/liver-cancer"
+        },
+        {
+            "Name": "Breast cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/medical-oncology/treatment/breast-cancer"
+        },
+        {
+            "Name": "Pancreatic Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/medical-oncology/treatment/pancreatic-cancer"
+        },
+        {
+            "Name": "UROLOGIC ONCOLOGY",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/urology/treatment/urologic-oncology"
+        },
+        {
+            "Name": "ENDOUROLOGY AND STONE DISEASE",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/urology/treatment/endourology-and-stone-disease"
+        },
+        {
+            "Name": "NEUROUROLOGY AND RECONSTRUCTIVE UROLOGY",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/urology/treatment/neurourology-and-reconstructive-urology"
+        },
+        {
+            "Name": "PROSTATE CLINIC",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/urology/treatment/prostate-clinic"
+        },
+        {
+            "Name": "Dialysis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/nephrology/treatment/dialysis"
+        },
+        {
+            "Name": "Transplant Medicine",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/nephrology/treatment/transplant-medicine"
+        },
+        {
+            "Name": "Paediatric ABO kidney transplant",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/nephrology/treatment/paediatric-abo-kidney-transplant"
+        },
+        {
+            "Name": "High Blood Pressure",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/fetal-medicine/treatment/high-blood-pressure"
+        },
+        {
+            "Name": "Obesity",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/fetal-medicine/treatment/obesity"
+        },
+        {
+            "Name": "Diabetes",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/fetal-medicine/treatment/diabetes"
+        },
+        {
+            "Name": "Asherman's Syndrome",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/obstetrics/treatment/ashermans-syndrome"
+        },
+        {
+            "Name": "Ectopic Pregnancy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/obstetrics/treatment/ectopic-pregnancy"
+        },
+        {
+            "Name": "Neonatal Respiratory distress syndrome",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neonatology-nicu/treatment/neonatal-respiratory-distress-syndrome"
+        },
+        {
+            "Name": "Paediatric Pulmonology Conditions",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neonatology-nicu/treatment/paediatric-pulmonology-conditions"
+        },
+        {
+            "Name": "Congenital Heart Defects",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neonatology-nicu/treatment/congenital-heart-defects"
+        },
+        {
+            "Name": "Paediatric Genetics",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neonatology-nicu/treatment/paediatric-genetics"
+        },
+        {
+            "Name": "Development Paediatrics",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/general/treatment/development-paediatrics"
+        },
+        {
+            "Name": "General Paediatric",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/general/treatment/general-paediatric"
+        },
+        {
+            "Name": "Vaccination",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/general/treatment/vaccination"
+        },
+        {
+            "Name": "Neonatal Bowel Obstruction (NBO)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/surgery-and-urology/treatment/neonatal-bowel-obstruction-nbo"
+        },
+        {
+            "Name": "Congenital Diaphragmatic Hernia (CDH)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/surgery-and-urology/treatment/congenital-diaphragmatic-hernia-cdh"
+        },
+        {
+            "Name": "Anorectal Malformation (ARM)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/surgery-and-urology/treatment/anorectal-malformation-arm"
+        },
+        {
+            "Name": "Tracheoesophageal Fistula (TEF)",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/surgery-and-urology/treatment/tracheoesophageal-fistula-tef"
+        },
+        {
+            "Name": "Arthritis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/clinical-immunology-and-rheumatology/treatment/arthritis"
+        },
+        {
+            "Name": "Still's disease",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/clinical-immunology-and-rheumatology/treatment/stills-disease"
+        },
+        {
+            "Name": "Systemic Lupus Erythematosus",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/clinical-immunology-and-rheumatology/treatment/systemic-lupus-erythematosus"
+        },
+        {
+            "Name": "Sjogren's Syndrome",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/clinical-immunology-and-rheumatology/treatment/sjogrens-syndrome"
+        },
+        {
+            "Name": "Thyroid Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/endocrinology-diabetology/treatment/thyroid-disorders"
+        },
+        {
+            "Name": "Pituitary Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/endocrinology-diabetology/treatment/pituitary-disorders"
+        },
+        {
+            "Name": "Adrenal Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/endocrinology-diabetology/treatment/adrenal-disorders"
+        },
+        {
+            "Name": "Diabetic foot Debridement",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/endocrinology-diabetology/treatment/diabetic-foot-debridement"
+        },
+        {
+            "Name": "Capsule endoscopy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/digestive-and-hepatobiliary/treatment/capsule-endoscopy"
+        },
+        {
+            "Name": "Endoscopic ultrasound",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/digestive-and-hepatobiliary/treatment/endoscopic-ultrasound"
+        },
+        {
+            "Name": "Laparoscopic cholecystectomy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/digestive-and-hepatobiliary/treatment/laparoscopic-cholecystectomy"
+        },
+        {
+            "Name": "UGI endoscopy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/digestive-and-hepatobiliary/treatment/ugi-endoscopy"
+        },
+        {
+            "Name": "Bariatric Nutrition and Weight Management",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dietetics-and-nutrition/treatment/bariatric-nutrition-and-weight-management"
+        },
+        {
+            "Name": "Maternal and Paediatric Nutrition",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dietetics-and-nutrition/treatment/maternal-and-paediatric-nutrition"
+        },
+        {
+            "Name": "Critical Care Nutrition",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dietetics-and-nutrition/treatment/critical-care-nutrition"
+        },
+        {
+            "Name": "Geriatric Nutrition",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/dietetics-and-nutrition/treatment/geriatric-nutrition"
+        },
+        {
+            "Name": "Brain Tumours",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurosurgery/treatment/brain-tumours"
+        },
+        {
+            "Name": "Strokes",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurosurgery/treatment/strokes"
+        },
+        {
+            "Name": "Spine Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurosurgery/treatment/spine-disorders"
+        },
+        {
+            "Name": "Left ventricular assist device",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/heart-transplant/treatment/left-ventricular-assist-device"
+        },
+        {
+            "Name": "Heart transplant",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/heart-transplant/treatment/heart-transplant"
+        },
+        {
+            "Name": "Parkinson's disease and Other Movement Disorders",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neuro/treatment/parkinsons-disease-and-other-movement-disorders"
+        },
+        {
+            "Name": "Multiple Sclerosis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neuro/treatment/multiple-sclerosis"
+        },
+        {
+            "Name": "Alzheimer's Disease",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neuro/treatment/alzheimers-disease"
+        },
+        {
+            "Name": "Chest Trauma",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/chest-surgery/treatment/chest-trauma"
+        },
+        {
+            "Name": "Bronchiectasis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/chest-surgery/treatment/bronchiectasis"
+        },
+        {
+            "Name": "Myasthenia Gravis",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/chest-surgery/treatment/myasthenia-gravis"
+        },
+        {
+            "Name": "Posterior Mediastinal Tumours",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/chest-surgery/treatment/posterior-mediastinal-tumours"
+        },
+        {
+            "Name": "VAT Surgery",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/chest-surgery/treatment/vat-surgery"
+        },
+        {
+            "Name": "Turner Syndrome",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/genetics/treatment/turner-syndrome"
+        },
+        {
+            "Name": "Thalassemia",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/genetics/treatment/thalassemia"
+        },
+        {
+            "Name": "Hereditary Cancer",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/genetics/treatment/hereditary-cancer"
+        },
+        {
+            "Name": "Down's Syndrome",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/genetics/treatment/downs-syndrome"
+        },
+        {
+            "Name": "Asthma",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/paediatric-pulmonology/treatment/asthma"
+        },
+        {
+            "Name": "COPD",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/paediatric-pulmonology/treatment/copd"
+        },
+        {
+            "Name": "Pneumonia",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/paediatric-pulmonology/treatment/pneumonia"
+        },
+        {
+            "Name": "Cerebral Palsy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology-paed/treatment/cerebral-palsy"
+        },
+        {
+            "Name": "Epilepsy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology-paed/treatment/epilepsy"
+        },
+        {
+            "Name": "Febrile Seizures",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology-paed/treatment/febrile-seizures"
+        },
+        {
+            "Name": "CNS infections",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology-paed/treatment/cns-infections"
+        },
+        {
+            "Name": "ADHD",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology-paed/treatment/adhd"
+        },
+        {
+            "Name": "Head and Migraine",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology-paed/treatment/head-and-migraine"
+        },
+        {
+            "Name": "Head Trauma",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology-paed/treatment/head-trauma"
+        },
+        {
+            "Name": "Autism",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology-paed/treatment/autism"
+        },
+        {
+            "Name": "Ovarian Cancers",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gynaecology-and-gynaeoncology/treatment/ovarian-cancers"
+        },
+        {
+            "Name": "Pelvic Floor Repair",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gynaecology-and-gynaeoncology/treatment/pelvic-floor-repair"
+        },
+        {
+            "Name": "Hysteroscopy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gynaecology-and-gynaeoncology/treatment/hysteroscopy"
+        },
+        {
+            "Name": "Laparoscopy",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gynaecology-and-gynaeoncology/treatment/laparoscopy"
+        },
+        {
+            "Name": "Routine Blood group matched transplants",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/kidney-transplant/treatment/routine-blood-group-matched-transplants"
+        },
+        {
+            "Name": "Cadeveric Transplants and various graft salvage procedures.",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/kidney-transplant/treatment/cadeveric-transplants-and-various-graft-salvage-procedures"
+        },
+        {
+            "Name": "Paediatric Kidney Transplants",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/kidney-transplant/treatment/paediatric-kidney-transplants"
+        },
+        {
+            "Name": "Swap transplants",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/kidney-transplant/treatment/swap-transplants"
+        },
+        {
+            "Name": "Second/ Third Transplants",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/kidney-transplant/treatment/second-third-transplants"
+        },
+        {
+            "Name": "Lactation Service",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/antenatal-care/treatment/lactation-service"
+        },
+        {
+            "Name": "Lamaze",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/antenatal-care/treatment/lamaze"
+        },
+        {
+            "Name": "Doula Service",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/antenatal-care/treatment/doula-service"
+        },
+        {
+            "Name": "Pre- and Post-natal Fitness Programme",
+            "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/antenatal-care/treatment/pre-and-post-natal-fitness-programme"
+        }
+    ]
+}

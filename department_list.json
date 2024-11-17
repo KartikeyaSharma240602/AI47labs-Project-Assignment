@@ -1,0 +1,66 @@
+[
+    {
+        "Name": "Cardiac Care",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/cardiology"
+    },
+    {
+        "Name": "Cancer Care",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/oncology"
+    },
+    {
+        "Name": "Neurosciences",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/neurology"
+    },
+    {
+        "Name": "Gastrosciences",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gastroenterology"
+    },
+    {
+        "Name": "Orthopaedics",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/orthopaedics"
+    },
+    {
+        "Name": "Renal Care",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/urology-nephrology"
+    },
+    {
+        "Name": "Liver Transplant",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/liver-transplantation"
+    },
+    {
+        "Name": "Bone Marrow Transplant",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/bone-marrow-transplant"
+    },
+    {
+        "Name": "Lung Transplant",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/lung-transplantation-chest-surgery"
+    },
+    {
+        "Name": "Chest Surgery",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/chest-surgery"
+    },
+    {
+        "Name": "Gynaecology and GynaeOncology",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gynaecology-and-gynaeoncology"
+    },
+    {
+        "Name": "Paediatric Care",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/paediatrics"
+    },
+    {
+        "Name": "Obstetrics & Gynaecology",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/gynaecology-obstetrics"
+    },
+    {
+        "Name": "Emergency",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/emergency"
+    },
+    {
+        "Name": "Plastic, Aesthetic and Reconstructive Surgery",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/plastic-surgery"
+    },
+    {
+        "Name": "ENT, Head and Neck Surgery",
+        "Link": "https://www.medanta.org/hospitals-near-me/gurugram-hospital/speciality/ent"
+    }
+]
